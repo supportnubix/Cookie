@@ -1,6 +1,6 @@
 {
-  "name": "Nubix/Cookie",
-  "description": "Magento 2 sample AdminHtmlPage",
+  "name": "Supportnubix/Cookie",
+  "description": "Magento 2 Cookie module.",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": [
@@ -13,6 +13,6 @@
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "Nubix\\Cookie\\": ""
+      "Supportnubix\\Cookie\\": ""
     }
   }
