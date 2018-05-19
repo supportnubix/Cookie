@@ -1,7 +1,7 @@
 {
   "name": "nubix/cookienotification",
-  "description": "Wrapper for Magento2 ImportExport functionality, which imports products and customers from arrays",
-  "homepage": "https://github.com/firegento/FireGento_FastSimpleImport2",
+  "description": "TestMOdule",
+  "homepage": "nubix.nl",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0|~7.1.0"
   },
@@ -9,8 +9,8 @@
   "license": "GPL-3.0",
   "authors": [
     {
-      "name": "Team FireGento",
-      "email": "team@firegento.com"
+      "name": "Nubix",
+      "email": "support@nubix.nl"
     }
   ],
   "autoload": {
